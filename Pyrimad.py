@@ -1,9 +1,9 @@
-splitmin=input("please enter the minutes of your 2K split")
-splitsec=input("please enter the seconds of your 2K split")
-heart=input("please enter your maximum heartrate or if not known enter 1")
+splitmin=input("please enter the minutes of your 2K split ")
+splitsec=input("please enter the seconds of your 2K split ")
+heart=input("please enter your maximum heartrate or if not known enter 1 ")
 if heart==1:
-    EstHeart=input("Please enter your age")
-    heart=220-estheart
+    EstHeart=input("Please enter your age ")
+    heart=220-EstHeart
 splittot=splitmin*60+splitsec
 import time
 n=time.clock()
